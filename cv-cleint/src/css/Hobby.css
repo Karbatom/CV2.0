@@ -1,0 +1,84 @@
+.BlenderImg, .YoutubeImg {
+  width: 120px;
+}
+
+.ImgSection {
+  text-align: center;
+}
+
+.ImgContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ImgContainer img {
+  max-width: 400px;
+  max-height: 700px;
+}
+
+.YoutubeLink {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0 30px 0;
+}
+
+.PawTrailLogo {
+  width: 150px;
+  cursor: pointer;
+}
+
+.YoutubeLink a {
+  padding: 15px 15px 10px 15px;
+  border-radius: 50%;
+  background: #1c1d2f;
+  margin: 5px;
+  border: 1px solid #2a2b41;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.YoutubeLink a:hover {
+  background: #2a2b41;
+}
+
+.gallery-container {
+  padding: 5px 5% 15px 5%;
+}
+
+.heading-text {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+}
+
+.heading-text span {
+  font-weight: 100;
+}
+
+/* Responsive image gallery rules begin*/
+
+.image-gallery {
+  /* Mobile first */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.image-gallery .column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.image-item img {
+  width: 100%;
+  border-radius: 5px;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media only screen and (min-width: 768px) {
+  .image-gallery {
+    flex-direction: row;
+  }
+}

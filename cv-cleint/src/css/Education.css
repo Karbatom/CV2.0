@@ -1,0 +1,10 @@
+
+.education-container {
+  max-width: 1000px;
+  font-size: 22px;
+}
+
+.education-container strong {
+  color: #505383;
+  font-size: 25px;
+}

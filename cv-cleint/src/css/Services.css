@@ -1,0 +1,48 @@
+
+.service-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.service {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  margin: 100px 0;
+}
+
+ #service-01 .service-image {
+  margin-left: -480px;
+  margin-top: -40px;
+}
+
+#service-02 .service-image {
+  margin-left: 550px;
+  margin-top: -90px;
+}
+
+#service-03 .service-image {
+  margin-left: -480px;
+  margin-top: -55px;
+} 
+
+#service-03 {
+  margin-bottom: 260px;
+}
+
+.service .service-image img {
+  height: 320px;
+}
+
+ .service .service-text {
+  width: 350px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.service .service-image {
+  position: absolute;
+}

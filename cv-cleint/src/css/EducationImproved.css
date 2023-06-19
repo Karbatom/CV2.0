@@ -1,0 +1,26 @@
+
+.sub-title {
+  font-size: 30px;
+}
+
+.items-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 5px 20px;
+}
+
+.items-container div {
+  border-radius: 5px;
+  background: #1c1d2f;
+  padding: 10px 20px;
+  margin: 5px;
+  border: 1px solid #2a2b41;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.items-container div:hover {
+  background: #2a2b41;
+}

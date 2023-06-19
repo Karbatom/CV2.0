@@ -1,0 +1,18 @@
+
+.Profile-Design {
+  /* padding: 10px 50px; */
+  text-align: center;
+}
+
+.Profile-Design img {
+  height: 340px;
+}
+
+.Profile-Info-Contact {
+  padding-left: 220px;
+  margin-top: -85px;
+}
+
+.profile-info {
+  padding-top: 30px;
+}

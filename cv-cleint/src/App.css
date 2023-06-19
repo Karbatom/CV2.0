@@ -1,0 +1,154 @@
+body {
+  background-color: #4b9cad;
+
+  /* font-family: Cambria; */
+  /* font-family: Poiret One,sans-serif;  */
+  color: #d3dae2;
+  letter-spacing: 1px;
+
+  margin: 0;
+}
+
+.wrapper {
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  perspective: 20px;
+
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/*Scroll bar*/
+.wrapper::-webkit-scrollbar {
+  display: none;
+}
+/*Scroll bar*/
+
+.parallax-section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  transform-style: preserve-3d;
+  z-index: -1;
+}
+
+.parallax-section img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+/*Parallax 01*/
+.parallax-section .lan-05 {
+  transform: translateZ(-20px) scale(2);
+}
+.parallax-section .lan-04 {
+  transform: translateZ(-17px) scale(1.85);
+}
+.parallax-section .lan-03 {
+  transform: translateZ(-15px) scale(1.75);
+}
+.parallax-section .lan-02 {
+  transform: translateZ(-12px) scale(1.6);
+}
+.parallax-section .lan-01 {
+  transform: translateZ(-9px) scale(1.45);
+}
+/*Parallax 01*/
+
+/*Parallax 02*/
+.parallax-section .cav-03 {
+  transform: translateZ(-20px) scale(2);
+}
+.parallax-section .cav-02 {
+  transform: translateZ(-17px) scale(1.85);
+}
+.parallax-section .cav-01 {
+  transform: translateZ(-12px) scale(1.6);
+}
+/*Parallax 02*/
+
+
+/* 1c1d2f second light purple*/
+/* 505383 light purple*/
+/* 1e1f33 purple*/
+/* 151525 dark purple*/
+.main {
+  background-color: #151525;
+
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.intro, .services, .education, .education_02, .hobby, .contacts {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 15px 10%;
+}
+
+.main .unispace-text {
+  font-family: "Unispace";
+}
+
+.main .container { 
+  max-width: 1305px;
+  min-height: 100vh;
+}
+
+.main .inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container .Title {
+  font-family: "Unispace";
+  font-size: 60px;
+  padding-left: 10%;
+  padding-bottom: 50px;
+}
+
+.container .Highligh-Text {
+  color: #505383;
+  letter-spacing: 5px;
+}
+
+.container .Seperater-Title {
+  padding: 0 15px;
+}
+
+.container .paragraf {
+  font-size: 22px;
+  max-width: 1000px;
+}
+
+.container .paragraf-second {
+  font-size: 18px;
+  max-width: 1000px;
+}
+
+.container .note {
+  color: #505383;
+  font-family: "Unispace";
+  font-style: italic;
+  line-height: 25px;
+  font-size: 15px;
+}
+
+.container .separation {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.container .separation .dinos_00 {
+ width: 100%;
+ min-width: 1000px;
+}
