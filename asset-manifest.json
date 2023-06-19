@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CV2.0/static/css/main.e136b9ab.css",
-    "main.js": "/CV2.0/static/js/main.1a910379.js",
+    "main.css": "/CV2.0/static/css/main.d36f782e.css",
+    "main.js": "/CV2.0/static/js/main.25c667d8.js",
     "static/media/MTB (10).jpg": "/CV2.0/static/media/MTB (10).139e3eed24f648fa442b.jpg",
     "static/media/MTB (5).jpg": "/CV2.0/static/media/MTB (5).753ab6139a5475122ca8.jpg",
     "static/media/MTB (11).jpg": "/CV2.0/static/media/MTB (11).cd916dba5f136ed01791.jpg",
@@ -12,19 +12,19 @@
     "static/media/MTB (2).jpg": "/CV2.0/static/media/MTB (2).6316a7eb58d23910c02f.jpg",
     "static/media/MTB (7).jpg": "/CV2.0/static/media/MTB (7).c8281eb7b885a3f7206b.jpg",
     "static/media/MTB (6).jpg": "/CV2.0/static/media/MTB (6).d513b3cf9fb398f60547.jpg",
-    "static/media/Dinosaur_fossils.png": "/CV2.0/static/media/Dinosaur_fossils.ef19d5dcbd90d2f4939e.png",
-    "static/media/Cave_parallax_01.png": "/CV2.0/static/media/Cave_parallax_01.e10d6a2119c9a621354f.png",
-    "static/media/Mushroom_02.png": "/CV2.0/static/media/Mushroom_02.1a0f29ce7271b1b69359.png",
-    "static/media/Mushroom_03.png": "/CV2.0/static/media/Mushroom_03.2340079dc0bd7ca9c699.png",
-    "static/media/Cave_parallax_00.png": "/CV2.0/static/media/Cave_parallax_00.3be3b70d2a219d30a443.png",
-    "static/media/Mushroom_01.png": "/CV2.0/static/media/Mushroom_01.740b87143616849d12d8.png",
-    "static/media/Cave_parallax_03.png": "/CV2.0/static/media/Cave_parallax_03.709ab3d80d0ec001968e.png",
+    "static/media/Cave_parallax_01.png": "/CV2.0/static/media/Cave_parallax_01.a0277e97632cc970eb9b.png",
+    "static/media/Dinosaur_fossils.png": "/CV2.0/static/media/Dinosaur_fossils.5d3b7fcad8bf0ce9e2f3.png",
     "static/media/MTB (4).jpg": "/CV2.0/static/media/MTB (4).3dbdd99cb4710578f87f.jpg",
-    "static/media/Landscape parallax 03.png": "/CV2.0/static/media/Landscape parallax 03.8b2ceec64b820f59aa34.png",
     "static/media/PawTrailLogo.png": "/CV2.0/static/media/PawTrailLogo.ca5813b0a79cfbad5a8b.png",
-    "static/media/Landscape parallax 00.png": "/CV2.0/static/media/Landscape parallax 00.740519aafb439c5c3b67.png",
-    "static/media/Landscape parallax 05.png": "/CV2.0/static/media/Landscape parallax 05.efee6ccc82e21d5b10b9.png",
-    "static/media/Landscape parallax 01.png": "/CV2.0/static/media/Landscape parallax 01.d7360742f81ae3b96b01.png",
+    "static/media/Cave_parallax_03.png": "/CV2.0/static/media/Cave_parallax_03.f9bbc659e653b212c125.png",
+    "static/media/Cave_parallax_00.png": "/CV2.0/static/media/Cave_parallax_00.84ab694a6496c1d1fb1e.png",
+    "static/media/Mushroom_02.png": "/CV2.0/static/media/Mushroom_02.b33410ccd382bef8b6d0.png",
+    "static/media/Landscape parallax 05.png": "/CV2.0/static/media/Landscape parallax 05.e13a5fb49d48029416ff.png",
+    "static/media/Mushroom_03.png": "/CV2.0/static/media/Mushroom_03.832e2dabc4240b981d54.png",
+    "static/media/Landscape parallax 03.png": "/CV2.0/static/media/Landscape parallax 03.c060b10f393d401d1520.png",
+    "static/media/Landscape parallax 00.png": "/CV2.0/static/media/Landscape parallax 00.99497cfcbabcb54412d4.png",
+    "static/media/Mushroom_01.png": "/CV2.0/static/media/Mushroom_01.cba9eff4a48be8b65aeb.png",
+    "static/media/Landscape parallax 01.png": "/CV2.0/static/media/Landscape parallax 01.f6159ed72c7cb694ec33.png",
     "static/media/b_img (18).jpg": "/CV2.0/static/media/b_img (18).39b32b778eb7cb0f13df.jpg",
     "static/media/Profile02.png": "/CV2.0/static/media/Profile02.2bc55c9b66d986002ddf.png",
     "static/media/b_img (14).JPG": "/CV2.0/static/media/b_img (14).19a4db4c60188e2cb295.JPG",
@@ -36,11 +36,11 @@
     "static/media/Cave_parallax_02.png": "/CV2.0/static/media/Cave_parallax_02.197dbd89e18b18d4f32b.png",
     "static/media/b_img (13).JPG": "/CV2.0/static/media/b_img (13).827c5a9ac5b8f8d2ec4a.JPG",
     "index.html": "/CV2.0/index.html",
-    "main.e136b9ab.css.map": "/CV2.0/static/css/main.e136b9ab.css.map",
-    "main.1a910379.js.map": "/CV2.0/static/js/main.1a910379.js.map"
+    "main.d36f782e.css.map": "/CV2.0/static/css/main.d36f782e.css.map",
+    "main.25c667d8.js.map": "/CV2.0/static/js/main.25c667d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e136b9ab.css",
-    "static/js/main.1a910379.js"
+    "static/css/main.d36f782e.css",
+    "static/js/main.25c667d8.js"
   ]
 }
