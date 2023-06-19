@@ -44,26 +44,26 @@ function Hobby() {
           <div className="image-gallery">
             <div className="column">
               <div className="image-item">
-                <img src={Img0} alt="" />
+                <img src={Img0} loading="lazy"  alt="g_12" />
               </div>
               <div className="image-item">
-                <img src={Img4} alt="" />
+                <img src={Img4} loading="lazy"  alt="g_13" />
               </div>
             </div>
             <div className="column">
               <div className="image-item">
-                <img src={Img7} alt="" />
+                <img src={Img7} loading="lazy"  alt="g_14" />
               </div>
               <div className="image-item">
-                <img src={Img8} alt="" />
+                <img src={Img8} loading="lazy"  alt="g_15" />
               </div>
             </div>
             <div className="column">
             <div className="image-item">
-                <img src={Img2} alt="" />
+                <img src={Img2} loading="lazy"  alt="g_16" />
               </div>
               <div className="image-item">
-                <img src={Img3} alt="" />
+                <img src={Img3} loading="lazy"  alt="g_17" />
               </div>
             </div>
           </div>
@@ -83,41 +83,41 @@ function Hobby() {
           <div className="image-gallery">
             <div className="column">
               <div className="image-item">
-                <img src={MTB_1} alt="" />
+                <img src={MTB_1} loading="lazy" alt="g_01" />
               </div>
               <div className="image-item">
-                <img src={MTB_2} alt="" />
+                <img src={MTB_2} loading="lazy" alt="g_02" />
               </div>
               <div className="image-item">
-                <img src={MTB_3} alt="" />        
+                <img src={MTB_3} loading="lazy" alt="g_03" />        
               </div>
               <div className="image-item">
-                <img src={MTB_10} alt="" />        
-              </div>
-            </div>
-            <div className="column">
-              <div className="image-item">
-                <img src={MTB_4} alt="" />
-              </div>
-              <div className="image-item">
-                <img src={MTB_5} alt="" />
-              </div>
-              <div className="image-item">
-                <img src={MTB_6} alt="" />
+                <img src={MTB_10} loading="lazy" alt="g_04" />        
               </div>
             </div>
             <div className="column">
               <div className="image-item">
-                <img src={MTB_7} alt="" />
+                <img src={MTB_4} loading="lazy" alt="g_05" />
               </div>
               <div className="image-item">
-                <img src={MTB_8} alt="" />
+                <img src={MTB_5} loading="lazy" alt="g_06" />
               </div>
               <div className="image-item">
-                <img src={MTB_9} alt="" />
+                <img src={MTB_6} loading="lazy" alt="g_07" />
+              </div>
+            </div>
+            <div className="column">
+              <div className="image-item">
+                <img src={MTB_7} loading="lazy" alt="g_08" />
               </div>
               <div className="image-item">
-                <img src={MTB_11} alt="" />        
+                <img src={MTB_8} loading="lazy" alt="g_09" />
+              </div>
+              <div className="image-item">
+                <img src={MTB_9} loading="lazy" alt="g_10" />
+              </div>
+              <div className="image-item">
+                <img src={MTB_11} loading="lazy" alt="g_11" />        
               </div>
             </div>
           </div>

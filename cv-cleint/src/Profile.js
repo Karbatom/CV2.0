@@ -27,7 +27,7 @@ function Profile() {
 
   const renderProfile = (
     <>
-      <img src={ProfilePhoto} alt="Logo" />
+      <img src={ProfilePhoto} alt="Logo" loading="lazy" />
       <div className="Profile-Info-Contact">
         <a href="https://www.linkedin.com/in/tom%C3%A1%C5%A1-karban-a88b81252/" target="_blank" rel="noreferrer">
           <AiFillLinkedin color={iconsColor} size={iconsSize} />

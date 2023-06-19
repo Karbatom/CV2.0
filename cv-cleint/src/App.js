@@ -69,10 +69,10 @@ function App() {
           </div>
         </section>
         <div className='parallax-section'>
-          <img src={Cave_03} alt='img_07' className='cav-03'/>
-          <img src={Cave_02} alt='img_08' className='cav-02'/>
-          <img src={Cave_01} alt='img_09' className='cav-01'/>
-          <img src={Cave_00} alt='img_10' className='cav-00'/>
+          <img src={Cave_03} alt='img_07' loading="lazy"  className='cav-03'/>
+          <img src={Cave_02} alt='img_08' loading="lazy"  className='cav-02'/>
+          <img src={Cave_01} alt='img_09' loading="lazy"  className='cav-01'/>
+          <img src={Cave_00} alt='img_10' loading="lazy"  className='cav-00'/>
           <div className='media-title media-title-second'>
             <div>VZDĚLÁNÍ</div>
           </div>
@@ -99,7 +99,7 @@ function App() {
           <div className='main'>
             <div className='container'>
               <div className='separation'>
-                <img src={Dinosaur_fossils} alt='img_11' className='dinos_00'/>
+                <img src={Dinosaur_fossils} alt='img_11' loading="lazy"  className='dinos_00'/>
               </div>
             </div>
           </div>
