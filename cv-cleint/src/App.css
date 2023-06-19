@@ -42,6 +42,22 @@ body {
   object-fit: cover;
 }
 
+.parallax-section .media-title {
+  display: none;
+  z-index: 10;
+  color: #fff;
+  font-family: "Unispace";
+  text-align: center;
+}
+
+.parallax-section .media-title-main {
+  font-size: 80px;
+}
+
+.parallax-section .media-title-second {
+  font-size: 60px;
+}
+
 /*Parallax 01*/
 .parallax-section .lan-05 {
   transform: translateZ(-20px) scale(2);

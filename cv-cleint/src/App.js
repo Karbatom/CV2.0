@@ -34,6 +34,10 @@ function App() {
           <img src={Landscape_02} alt='img_04' className='lan-02'/>
           <img src={Landscape_01} alt='img_05' className='lan-01'/>
           <img src={Landscape_00} alt='img_06' className='lan-00'/>
+          <div className='media-title media-title-main'>
+            <div>TOMÁŠ</div>
+            <div>KARBAN</div>
+          </div>
         </div>
         <section className='static-section'>
           <div className='main'>
@@ -69,6 +73,9 @@ function App() {
           <img src={Cave_02} alt='img_08' className='cav-02'/>
           <img src={Cave_01} alt='img_09' className='cav-01'/>
           <img src={Cave_00} alt='img_10' className='cav-00'/>
+          <div className='media-title media-title-second'>
+            <div>VZDĚLÁNÍ</div>
+          </div>
         </div>
         <section className='static-section'>
           <div className='main'>

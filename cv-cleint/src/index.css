@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* @media only screen and (max-device-width: 920px) {
+  .parallax-section img  {
+    backdrop-filter: blur(10px);
+  }
+
+  .parallax-section .media-title {
+    display: block !important;
+  }
+} */
+
+@media only screen and (max-width: 920px) {
+  .parallax-section img  {
+    backdrop-filter: blur(10px);
+  }
+
+  .parallax-section .media-title {
+    display: block !important;
+  }
+}
